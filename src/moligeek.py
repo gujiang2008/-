@@ -13,9 +13,9 @@ name = """_ _                 _
                      |___/"""
 print(name)
 print("="*45)
-print("v0.1.1(测试版)")
-print("开源地址:https://github.com/yourmoln/moligeek")
-print("本工具仅限于合法用途，交流Q群:564136017")
+print("v0.1")
+print("GUHACK TOOL")
+print("本工具由顾江开发 QQ:3084258910")
 print("="*45)
 
 import os
